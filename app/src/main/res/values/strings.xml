@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="hint_name">Атауы</string>
+    <string name="hint_price">Бағасы</string>
+    <string name="hint_qty">Саны</string>
+    <string name="btn_add">Добавить</string>
+    <string name="total_fmt">Итого: %1$.2f ₽</string>
+    <string name="err_name">Введите название</string>
+    <string name="err_price">Введите цену</string>
+    <string name="err_qty">Количество от 1 до 99</string>
+    <string name="detail_fmt">Товар №%1$d</string>
+</resources>
